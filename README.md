@@ -1,0 +1,2 @@
+- Mô tả: game được lấy ý tưởng từ Flappy Bird và Google Dino, bạn phải điều khiển phím lên xuống để bay nhảy né chướng ngại vật bay tới là những hòn đá
+- Hướng dẫn chơi và cài đặt: Truy cập theo đường dẫn x64/Debug click vào file FlappyBock.exe và tận hưởng.
