@@ -21,9 +21,11 @@ Game được lấy ý tưởng dựa theo **Flappy Bird** và **Google Dino**, 
 ### Hướng dẫn chơi:
 - Thao tác từ bàn phím.
 - Nhấn mũi tên *Lên* & *Xuống* để nhân vật né chướng ngại vật.
+- Một vài tính năng mới sẽ được update sau
 
 ### Notes
 - Sẽ bổ sung và hoàn thiện Highest Score sau.
+- Sắp bổ sung thêm 2 chế độ riêng là FlappyMode và DinoMode *(Hiện tại đang có mỗi DinoMode)*
 - Game còn chưa hoàn thiện và có vài thiếu sót như xử lý va chạm chưa được tốt có gì mong được sự cảm thông đến từ người trải nghiệm.
 ***
 ### Contact 
@@ -31,4 +33,4 @@ Game được lấy ý tưởng dựa theo **Flappy Bird** và **Google Dino**, 
 - Gmail: nbmanh4505@gmail.com
 - Zalo: *0334548031*
 ***
-                                                     ***^^Mình xin chân thành cảm ơn!***
+    ***^^Mình xin chân thành cảm ơn!***
