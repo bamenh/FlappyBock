@@ -27,6 +27,7 @@ Game được lấy ý tưởng dựa theo **Flappy Bird** và **Google Dino**, 
 - Game còn chưa hoàn thiện và có vài thiếu sót như xử lý va chạm chưa được tốt có gì mong được sự cảm thông đến từ người trải nghiệm.
 ***
 ### Contact 
-- [Facebook](https://www.facebook.com/csuet5/) 
+- [Facebook](https://www.facebook.com/csuet5/)
+- Gmail: nbmanh4505@gmail.com
 - Zalo: *0334548031*
 ##                               ***^^Mình xin chân thành cảm ơn!***
