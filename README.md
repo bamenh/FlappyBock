@@ -15,9 +15,10 @@ Game được lấy ý tưởng dựa theo **Flappy Bird** và **Google Dino**, 
 -  **Bước 2:** Copy 3 Folder sau rồi bỏ vào x64/Debug như mình đề cập ở trên
   ![Guide1](https://github.com/bamenh/FlappyBock/assets/150647664/4f682d92-d8f0-45c5-b1c6-c45923f06f88)
 
-![Guide2](https://github.com/bamenh/FlappyBock/assets/150647664/6014e44e-b05f-4c04-85d7-e911e7dedaff)
-  
+![Guide2](https://github.com/bamenh/FlappyBock/assets/150647664/6014e44e-b05f-4c04-85d7-e911e7dedaff)  
   *Truy cập theo đường dẫn x64/Debug click vào file FlappyBock.exe và tận hưởng!*
+  ***
+  Nếu không có Visual Studio để build thì tải qua link sau: [Download](https://vnueduvn-my.sharepoint.com/:u:/g/personal/23020625_vnu_edu_vn/EZ04YZ6oN-tAjRgP1lHUpgEBLjU8oar7nZWnsakwAiCW7Q?e=SLQcZT)
 ### Hướng dẫn chơi:
 - Thao tác từ bàn phím.
 - Nhấn mũi tên *Lên* & *Xuống* để nhân vật né chướng ngại vật.
