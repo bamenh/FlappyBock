@@ -32,6 +32,6 @@ Game được lấy ý tưởng dựa theo **Flappy Bird** và **Google Dino**, 
 ### Contact 
 - [Facebook](https://www.facebook.com/csuet5/)
 - Gmail: nbmanh4505@gmail.com
-- Zalo: *0334548031*
+
 ***
     ^^Mình xin chân thành cảm ơn!
